@@ -1,5 +1,5 @@
 ### Hi there 👋
-my name
+my name is Nur Amiera Zulaikha binti Hardi
 <!--
 **amierazulaikha/amierazulaikha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
