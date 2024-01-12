@@ -47,6 +47,19 @@
 - **Duration:** 2022
 - [lexis hibiscus](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/1e1aee4e-0aef-4540-9bac-6c683b8d0159)
 
+# Skills
+
+## Self-Strengths
+- 💪 **Adaptability:** I am quick to adapt to new situations and environments, allowing me to handle challenges with ease.
+- 🚀 **Initiative:** I take the initiative to identify and address issues proactively, contributing to a positive work environment.
+- 🔍 **Attention to Detail:** I pay meticulous attention to details, ensuring accuracy and precision in my work.
+- 🌱 **Resilience:** I demonstrate resilience in the face of setbacks, learning from experiences and continuously improving.
+
+## Soft Skills
+- 📢 **Communication:** I possess strong communication skills, both written and verbal, facilitating effective collaboration with team members.
+- 🤝 **Teamwork:** I thrive in a collaborative team environment, contributing ideas and working collectively towards common goals.
+- ⏰ **Time Management:** I am adept at managing time efficiently, prioritizing tasks to meet deadlines effectively.
+- 🧠 **Problem-Solving:** I enjoy tackling challenges and solving problems creatively, using critical thinking to find innovative solutions.
 
 
 
