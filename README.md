@@ -39,6 +39,15 @@
 - Committee in **Sukan Antara Kolej Kediaman (SUKED)** – Tennis Sport
   https://github.com/amierazulaikha/amierazulaikha/assets/148413070/55a917bb-9c47-4ed5-bc14-206162e33cac
 
+# Work Experience
+
+## Chef at Lexis Hibiscus (2022)
+- **Position:** Chef
+- **Company:** Lexis Hibiscus
+- **Duration:** 2022
+
+[lexis](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/1e1aee4e-0aef-4540-9bac-6c683b8d0159)
+
 
 
 
