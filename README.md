@@ -35,12 +35,8 @@
 ## Pre-University Involvement
 - Committee and emcee in **Islamic Poetic and Patriotism Competition**
 - Committee in **Sukan Antara Kolej Kediaman (SUKED)** – Tennis Sport
-
-# My Project
-
-![Project Logo](https://example.com/path/to/your/image.jpg)
-
-Description of your project goes here.
+![Project Logo]![WhatsApp Image 2024-01-12 at 22 38 15_c5976a40](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/0d6367c9-3caf-4375-b9f4-c889214e67b1)
+)
 
 
 
