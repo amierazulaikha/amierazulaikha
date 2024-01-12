@@ -34,8 +34,8 @@
 
 ## Pre-University Involvement
 - Committee and emcee in **Islamic Poetic and Patriotism Competition**
-  - [islam 2](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/88781fef-b468-4960-993e-6765811daf4a)
-  - [islam](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/e5f4fba7-e4ce-420f-a383-812e451bfafc)
+  - [group discussion](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/88781fef-b468-4960-993e-6765811daf4a)
+  - [poster](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/e5f4fba7-e4ce-420f-a383-812e451bfafc)
 - Committee in **Sukan Antara Kolej Kediaman (SUKED)** – Tennis Sport
   - [tennis](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/701ff8d5-b032-4994-8b4d-a0c338bafe0c)
 
@@ -45,7 +45,7 @@
 - **Position:** Chef
 - **Company:** Lexis Hibiscus
 - **Duration:** 2022
-- [lexis](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/1e1aee4e-0aef-4540-9bac-6c683b8d0159)
+- [lexis hibiscus](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/1e1aee4e-0aef-4540-9bac-6c683b8d0159)
 
 
 
