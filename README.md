@@ -9,6 +9,34 @@
 
 - 📫 How to reach me **nuramierazulaikha@graduate.utm.my**
 
+# Educational Background
+
+## Secondary School
+- **School:** Sekolah Menengah Kebangsaan Pasir Panjang
+- **Duration:** 2017-2022
+
+## Pre-University
+- **College:** Kolej Matrikulasi Negeri Sembilan
+- **Duration:** 2022-2023
+
+## University
+- **University:** Universiti Teknologi Malaysia
+- **Duration:** 2023-now
+
+# Co-Curricular Activities and Achievements
+
+## High School Involvement
+- **Peers Guidance Club (PGC)** (2017-2019)
+- **High School Prefect** (2020-2022)
+- **Head of High School Prefect** (2021-2022)
+- **Vice President Chess Club** (2021-2022)
+- **Second place** in Cooking Competition State Ranking under Nestle (2018)
+
+## Pre-University Involvement
+- Committee and emcee in **Islamic Poetic and Patriotism Competition**
+- Committee in **Sukan Antara Kolej Kediaman (SUKED)** – Tennis Sport
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nr._.amiera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nr._.amiera" height="30" width="40" /></a>
