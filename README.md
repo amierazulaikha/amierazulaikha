@@ -34,10 +34,10 @@
 
 ## Pre-University Involvement
 - Committee and emcee in **Islamic Poetic and Patriotism Competition**
-  (![islam 2](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/24ef74a5-81a0-4700-8653-2d0b78e060c9)
-  (![islam](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/465fdf1a-2a8a-4afe-a5eb-4a0c71e634ab)
+  Image: ![islam 2](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/24ef74a5-81a0-4700-8653-2d0b78e060c9)
+  Image: ![islam](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/465fdf1a-2a8a-4afe-a5eb-4a0c71e634ab)
 - Committee in **Sukan Antara Kolej Kediaman (SUKED)** – Tennis Sport
-  (![tennis](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/5bcd2844-d01e-4580-b1e0-5e638bf2d09f)
+  Image: ![tennis](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/55a917bb-9c47-4ed5-bc14-206162e33cac)
 
 
 
