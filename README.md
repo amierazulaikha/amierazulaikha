@@ -5,34 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amierazulaikha" alt="amierazulaikha" /></a> </p>
 
+- 🌱 I’m currently learning **about graphic multimedia course**
+
 - 📫 How to reach me **nuramierazulaikha@graduate.utm.my**
-
-- ⚡ Fun fact **I have attractive personality**
-
-# README
-
-## Education
-- A
-- B
-- C
-- D
-
-## Achievement/Extracurricular
-- A
-- B
-- B
-- D
-- E
-
-## Work Experience
-- A
-- B
-- C
-- D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nr._.amiera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nr._.amiera" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/amiera zulaikha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amiera zulaikha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
