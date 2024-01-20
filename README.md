@@ -1,4 +1,4 @@
-<h1 align="center">HELLO EVERYBODY!</h1>
+<h1 align="center">HEllO THERE! 😊</h1>
 <h3 align="center">Bachelor of Computer Science (Graphic and Multimedia Software) With Honours Computing</h3>
 
 ![photo_2024-01-20_11-13-41](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/84a87914-ac21-472f-ae76-dea73d44a6a9)
