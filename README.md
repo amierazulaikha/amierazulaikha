@@ -1,12 +1,16 @@
 <h1 align="center">HELLO EVERYBODY!</h1>
 <h3 align="center">Bachelor of Computer Science (Graphic and Multimedia Software) With Honours Computing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amierazulaikha&label=Profile%20views&color=0e75b6&style=flat" alt="amierazulaikha" /> </p>
+![photo_2024-01-20_11-13-41](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/84a87914-ac21-472f-ae76-dea73d44a6a9)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amierazulaikha" alt="amierazulaikha" /></a> </p>
+# Greetings! 🌟✨
 
-- 🌱 I’m currently learning **about graphic multimedia course**
-
+## Introduction
+Assalamualaikum and Hi Everyone! My name is Nur Amiera Zulaikha binti Hardi, and you can call me Miera. Currently, I am pursuing my studies at the University of Technology Malaysia. 🎓
+## About Me
+I'm thrilled to share a bit about my journey and experiences here. University life is a unique adventure, and I am eager to embrace the opportunities for growth and learning that come my way. 📚💡 It's like stepping into a world filled with endless possibilities, and I can't wait to see where this academic journey takes me! 🌈
+## Connect with Me
+If you have any tips or insights about navigating university life, I would love to hear them! Let's connect and make this academic journey a memorable one together. Feel free to share your experiences or ask me anything. Looking forward to getting to know all of you! 😊🌱
 - 📫 How to reach me **nuramierazulaikha@graduate.utm.my**
 
 # Educational Background
