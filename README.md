@@ -1,6 +1,5 @@
 <h1 align="center">HELLO EVERYBODY!</h1>
-<h3 align="center">Bachelor of Computer Science (Graphic and Multimedia Software)</h3>
-<h3 align="center">With Honour Computing</h3>
+<h3 align="center">Bachelor of Computer Science (Graphic and Multimedia Software) With Honours Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amierazulaikha&label=Profile%20views&color=0e75b6&style=flat" alt="amierazulaikha" /> </p>
 
