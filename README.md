@@ -52,7 +52,7 @@ Have tips for navigating university life or just want to chat? Let's connect and
 - 🏢 **Company:** Lexis Hibiscus
 - ⌛ **Duration:** 2022
 - [Lexis Hibiscus](https://github.com/amierazulaikha/amierazulaikha/assets/148413070/a40ab184-4a71-49f3-a611-bb9df4d11de6)
-)
+
 
 # Skills
 
