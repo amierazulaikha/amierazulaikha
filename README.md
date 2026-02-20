@@ -13,7 +13,7 @@ Excited to share a bit about my journey! University life is an adventure, and I'
 
 ## Connect with Me
 Have tips for navigating university life or just want to chat? Let's connect and make this academic journey memorable! 😊🌱
-- 📫 Reach me at **nuramierazulaikha@graduate.utm.my**
+- 📫 Reach me at **amierazulaikha04@gmail.com**
 
 # Educational Background
 
